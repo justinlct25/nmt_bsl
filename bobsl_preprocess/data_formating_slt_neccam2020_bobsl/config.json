@@ -1,0 +1,12 @@
+{
+    "FRAMES_PER_SECOND": 25,
+    "FEATURE_EXTRACTION_PRETRAINED_MODEL": "googlenet",
+    "VTT_SUBTITLE_FOLDER": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/datasets/bobsl/subtitles/manually-aligned",
+    "SPOTTING_FOLDER": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/datasets/bobsl/spottings",
+    "ANNOTATION_PKL_FILE": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/datasets/bobsl/auto_dense_annotations.pkl",
+    "VIDEOS_FOLDER": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/datasets/bobsl/videos",
+    "VTT_PROCESS_GLOSS_OUTPUT_FOLDER_DIRECTORY": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/self_bobsl_preprocess/data_formating_slt_neccam2020_bobsl/vtt_process_output",
+    "VTT_PROCESS_FEATURES_OUTPUT_FOLDER_DIRECTORY": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/self_bobsl_preprocess/data_formating_slt_neccam2020_bobsl/vtt_process_output",
+    "BOBSL_I3D_FEATURES_FOLDER": "/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/datasets/bobsl/features/i3d_c2281_16f_m8_-15_4_d0.8_-3_22_masub"
+
+}

@@ -1,0 +1,9 @@
+from helpers import load_dataset_file, save_dataset_file
+
+
+
+original_file = '/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/self_bslcp_preprocess/data_formating_slt_stochastic2021_bslcp/dataset_preprocess_output_stochastic2021/dataset_bslcp_12609sentences_>8words/dataset.pth.gz.train'
+output_file = '/Users/chuntingjustinlo/Study/CardiffComputing/DissertationSignify/self_bslcp_preprocess/data_formating_slt_stochastic2021_bslcp/dataset_preprocess_output_stochastic2021/dataset_bslcp_12609sentences_>8words/dataset.protocol4.pth.gz.train'
+
+dataset = load_dataset_file(original_file)
+save_dataset_file(dataset, output_file)
