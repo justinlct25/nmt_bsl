@@ -4,6 +4,9 @@ This repository consists of codes for data pre-processing and rearranging on BSL
 
 Also, code for extracting features from sign language video frames using pre-trained weights of I3D CNN models is include. 
 
+## Final report
+- ./FinalReport_22075165.pdf
+
 ## Pre-processing running files
 - bobsl_preprocess:
     - dataset_rearrange.py
